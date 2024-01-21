@@ -4,7 +4,7 @@
 	
 	display:flex;
 	flex-wrap:wrap;
-	justify-content:center;
+	justify-content:space-evenly;
 }
 .items{
 	width:300px;
